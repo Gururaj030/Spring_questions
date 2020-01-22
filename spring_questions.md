@@ -1,56 +1,57 @@
-Which of the following is part of Data Access layer in Spring framework?
- 	JMS
+Q. Which of the following is part of Data Access layer in Spring framework?
+  
+Answer: JMS
 
-Can be bean be configured to have an inner bean?
- 	True
+Q. Can be bean be configured to have an inner bean?
+Answer: True
 
-Which of the following class can be used to execute Sql queries in spring?
- 	JdbcTemplate
+Q. Which of the following class can be used to execute Sql queries in spring?
+Answer: JdbcTemplate
 
-Which are the correct implementation classes of ApplicationContext?
- 	FileSystemXmlApplicationContext, ClassPathXmlApplicationContext, WebXmlApplicationContext
+Q. Which are the correct implementation classes of ApplicationContext?
+Answer: FileSystemXmlApplicationContext, ClassPathXmlApplicationContext, WebXmlApplicationContext
 
-Following class can be extended to create custom event in spring.
- 	ApplicationEvent
+Q. Following class can be extended to create custom event in spring.
+Answer: ApplicationEvent
 
-What is Spring MVC framework?
- 	The Spring web MVC framework provides model-view-controller architecture and ready components that can be used to develop flexible and loosely coupled web applications.
+Q. What is Spring MVC framework?
+Answer: The Spring web MVC framework provides model-view-controller architecture and ready components that can be used to develop flexible and loosely coupled web applications.
 
-What are the different points where weaving can be applied?
- 	Compile time, load Time, Run time
+Q. What are the different points where weaving can be applied?
+Answer: Compile time, load Time, Run time
 
-What is no mode of autowiring?
- 	Default setting which means no autowiring and you should use explicit bean reference for wiring.
+Q. What is no mode of autowiring?
+Answer: Default setting which means no autowiring and you should use explicit bean reference for wiring.
 
-What is the scope of stateful bean?
- 	prototype
+Q. What is the scope of stateful bean?
+Answer: prototype
 
-What does @Required annotation mean?
-	This annotation simply indicates that the affected bean property must be populated at configuration time, through an explicit property value in a bean definition or through autowiring.
+Q. What does @Required annotation mean?
+Answer: This annotation simply indicates that the affected bean property must be populated at configuration time, through an explicit property value in a bean definition or through autowiring.
 
-Thread scoped bean is introduced in which version of spring framework.
- 	3.0
+Q. Thread scoped bean is introduced in which version of spring framework.
+Answer: 3.0
 
-What is Introduction?
-	An introduction represents a point in your application where you can plug-in AOP aspect.
+Q. What is Introduction?
+Answer: An introduction represents a point in your application where you can plug-in AOP aspect.
 
-Which are the modules of Data Access/ integration layer?
-	JDBC, ORM, OXM, JMS, Transactions
+Q. Which are the modules of Data Access/ integration layer?
+Answer: JDBC, ORM, OXM, JMS, Transactions
 
-What is Weaving?
-	Weaving is the process of linking aspects with other application types or objects to create an advised object.
+Q. What is Weaving?
+Answer: Weaving is the process of linking aspects with other application types or objects to create an advised object.
 
-What are the ways to access Hibernate by using Spring?
-	Hibernate can be accessed by both ways either using Inversion of Control with a Hibernate Template and Callback or extending HibernateDAOSupport and applying an AOP Interceptor node.
+Q. What are the ways to access Hibernate by using Spring?
+Answer: Hibernate can be accessed by both ways either using Inversion of Control with a Hibernate Template and Callback or extending HibernateDAOSupport and applying an AOP Interceptor node.
 
-What is global-session scope?
-	global-session scope instructs Spring IoC container to create a instance per HTTP application.
+Q. What is global-session scope?
+Answer: global-session scope instructs Spring IoC container to create a instance per HTTP application.
 
-Which are the IoC containers in Spring?
- 	BeanFactory, ApplicationContext
+Q. Which are the IoC containers in Spring?
+Answer: BeanFactory, ApplicationContext
 
-What is the scope of stateless bean?
-	singleton
+Q. What is the scope of stateless bean?
+Answer: singleton
 
-Where do you define DispatcherServlet?
-	Web.xml file
+Q. Where do you define DispatcherServlet?
+Answer: Web.xml file
